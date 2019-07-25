@@ -78,9 +78,8 @@
             this.lblGameOver.Location = new System.Drawing.Point(89, 55);
             this.lblGameOver.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblGameOver.Name = "lblGameOver";
-            this.lblGameOver.Size = new System.Drawing.Size(126, 46);
+            this.lblGameOver.Size = new System.Drawing.Size(0, 46);
             this.lblGameOver.TabIndex = 3;
-            this.lblGameOver.Text = "label2";
             this.lblGameOver.Visible = false;
             // 
             // lblAboutUs

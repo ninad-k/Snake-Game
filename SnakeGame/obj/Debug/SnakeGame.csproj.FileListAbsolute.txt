@@ -8,3 +8,13 @@ C:\Users\Ninad\Projects\Learning\DotNet\Snake Game\SnakeGame\SnakeGame\obj\Debug
 C:\Users\Ninad\Projects\Learning\DotNet\Snake Game\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
 C:\Users\Ninad\Projects\Learning\DotNet\Snake Game\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
 C:\Users\Ninad\Projects\Learning\DotNet\Snake Game\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
+C:\Users\Ninad\Source\Repos\ninad-k\Snake-Game\SnakeGame\bin\Debug\SnakeGame.exe.config
+C:\Users\Ninad\Source\Repos\ninad-k\Snake-Game\SnakeGame\bin\Debug\SnakeGame.exe
+C:\Users\Ninad\Source\Repos\ninad-k\Snake-Game\SnakeGame\bin\Debug\SnakeGame.pdb
+C:\Users\Ninad\Source\Repos\ninad-k\Snake-Game\SnakeGame\obj\Debug\SnakeGame.csprojAssemblyReference.cache
+C:\Users\Ninad\Source\Repos\ninad-k\Snake-Game\SnakeGame\obj\Debug\SnakeGame.formSnakeGame.resources
+C:\Users\Ninad\Source\Repos\ninad-k\Snake-Game\SnakeGame\obj\Debug\SnakeGame.Properties.Resources.resources
+C:\Users\Ninad\Source\Repos\ninad-k\Snake-Game\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.cache
+C:\Users\Ninad\Source\Repos\ninad-k\Snake-Game\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\Ninad\Source\Repos\ninad-k\Snake-Game\SnakeGame\obj\Debug\SnakeGame.exe
+C:\Users\Ninad\Source\Repos\ninad-k\Snake-Game\SnakeGame\obj\Debug\SnakeGame.pdb
